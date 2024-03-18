@@ -1,1 +1,1 @@
-# lpc864-ual-website
+This repository hosts my personal website code for this account.

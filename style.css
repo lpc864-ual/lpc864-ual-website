@@ -1,0 +1,14 @@
+.centered-image {
+    display: block; /* Make it a block-level element */
+    margin-left: auto; /* Center horizontally by pushing left margin to auto */
+    margin-right: auto; /* Center horizontally by pushing right margin to auto */
+}
+
+.centered-text {
+    text-align: center;
+  }
+
+.image {
+    width: 60%;
+    height: 200px;
+}
